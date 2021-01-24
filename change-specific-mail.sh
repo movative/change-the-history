@@ -1,6 +1,6 @@
 $hide="mail@i-want-to-hide.com"
 $name="Alexander Hartmann"
-$mail="38313840+movative@users.noreply.github.com"
+$mail="38313840+movative@users.noreply.github.com" #(Keep my email adresses private) from https://github.com/settings/emails
 
 git filter-branch --env-filter "
 if [ $GIT_COMMITTER_EMAIL = $hide ]
