@@ -4,7 +4,7 @@ A Script to change the git history. Useful if you want to change a private repos
 ## usage
 
 ```
-chmod +x change-complete-history.sh
-./change-complete-history.sh <PATH_TO_GIT_REPO>
+chmod +x change-user.sh
+./change-user.sh <PATH_TO_GIT_REPO>
 ```
 
